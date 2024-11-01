@@ -1,12 +1,13 @@
 {
   "name": "@programmeramera/npm-rce-dep",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "npx tsc",
-    "postinstall": "sh postinstall.sh"
+    "postinstall": "sh ./postinstall.sh"
   },
+
   "keywords": [],
   "author": "Johan Lindfors // programmeramera",
   "license": "ISC",

